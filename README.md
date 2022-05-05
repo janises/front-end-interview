@@ -1,1 +1,1 @@
-# front-end-interview
+Tech interview template

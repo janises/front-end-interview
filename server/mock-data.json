@@ -1,0 +1,53 @@
+{
+  "courseData": [{
+  "title": "Angular Fundamentals",
+  "level": "Intermediate",
+  "description":
+    "This course will teach you the fundamentals of working with Angular 2. You will learn everything you need to know to create complete applications including: components, services, directives, pipes, routing, HTTP, and even testing.",
+  "image": {
+    "alt": "Angular Fundamentals",
+    "url":
+      "https://ps-content-staging.imgix.net/pluralsight-static/course-images/angular-fundamentals-v1.jpg"
+  }
+}, {
+  "title": "JavaScript Best Practices",
+  "level": "Intermediate",
+  "description":
+    "Identify and prevent common problems and headaches in JavaScript by learning best practices. From syntax oddities, to async patterns, to callbacks, this course will help you walk through how to deal with some of JavaScript's problem spots.",
+  "image": {
+    "alt": "JavaScript Best Practices",
+    "url":
+      "https://ps-content-staging.imgix.net/course-images/audience/software-development.jpg"
+  }
+}, {
+  "title": "Practical HTML5",
+  "level": "Beginner",
+  "description":
+    "HTML5 has been around now for some time. But how do you get your head around all that comes with it? The answer is by doing. In this Practical HTML5 course, you can do exactly that by building a site from scratch, adding new HTML5, CSS3, and JavaScript features. The end result is a deeper understanding of how the various building blocks work together, and you'll have a working site as well!",
+  "image": {
+    "alt": "Practical HTML5",
+    "url":
+      "https://ps-content-staging.imgix.net/course-images/audience/software-development.jpg"
+  }
+}, {
+  "title": "Introduction to Node.js",
+  "level": "Intermediate",
+  "description":
+    "In this course we provide an overview of Node.js, including writing asynchronous code with callbacks and streams, and modularizing your application with NPM and require(). We also look at built-in API's for building and scaling web applications as well as a few key third party modules.",
+  "image": {
+    "alt": "Introduction to Node.js",
+    "url":
+      "https://pluralsight.imgix.net/course-images/node-intro-v1.jpg"
+  }
+}, {
+  "title": "Photoshop CC for the Web",
+  "level": "Beginner",
+  "description":
+    "Adobe Photoshop is used by a wide range of professionals, and web designers are no exception. In this course, we'll look how you can use Photoshop to create wireframes, and complete web site mockups.",
+  "image": {
+    "alt": "Photoshop CC for the Web",
+    "url":
+      "https://ps-content-staging.imgix.net/course-images/photoshop-cc-web-v1.jpg"
+  }
+}]
+}
